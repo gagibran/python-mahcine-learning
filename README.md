@@ -1,2 +1,1 @@
-# python-mahcine-learning
-Machine Learning Python Projects
+# Machine Learning Python Projects
